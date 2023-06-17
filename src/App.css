@@ -1,6 +1,11 @@
 .App {
   text-align: center;
 }
+*{
+  background-color: #212529;
+  font-family: 'Josefin Sans', sans-serif;
+
+}
 
 .App-logo {
   height: 40vmin;
